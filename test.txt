@@ -1,4 +1,3 @@
-Hey 123
+Hey 123 Branch
 Prosto line
-<<<<<<< HEAD
 new line 12345
